@@ -3,26 +3,41 @@
 #### Summer 2018
 
 
-### References
+### Papers
+===============
 
-1. Peters, L. A. et al. "A functional genomics predictive network model identifies regulators of inflammatory bowel disease." *Nature Genetics* 49, 1437–1449 (2017).
-2. Liley, J., Todd, J. A. & Wallace, C. "A method for identifying genetic heterogeneity within phenotypically defined disease subgroups." *Nature Genetics* 49, 310–316 (2017).
-3. Forsberg, S. K. G., Bloom, J. S., Sadhu, M. J., Kruglyak, L. & Carlborg, Ö. "Accounting for genetic interactions improves modeling of individual quantitative trait phenotypes in yeast." *Nature Genetics* 49, 497–503 (2017).
-4. Consortium, T. B. et al. "Analysis of shared heritability in common disorders of the brain." *Science* 360, eaap8757 (2018).
-5. Lan, X. & Pritchard, J. K. "Coregulation of tandem duplicate genes slows evolution of subfunctionalization in mammals." *Science* 352, 1009–1013 (2016).
-6. Knowles, D. A. et al. "Determining the genetic basis of anthracycline-cardiotoxicity by molecular response QTL mapping in induced cardiomyocytes." *eLife* (2018). doi:10.7554/eLife.33480
-7. Wen, L. et al. "Genome-scale detection of hypermethylated CpG islands in circulating cell-free DNA of hepatocellular carcinoma patients." *Cell Res* 25, 1250–1264 (2015).
-8. Hickey, J. M. et al. "Genomic prediction unifies animal and plant breeding programs to form platforms for biological discovery." *Nature Genetics* 49, 1297–1303 (2017).
-9. Zhao, W. et al. "Identification of new susceptibility loci for type 2 diabetes and shared etiological pathways with coronary heart disease." *Nature Genetics* 49, 1450–1457 (2017).
-10. Barbeira, A. N. et al. "Integrating Predicted Transcriptome From Multiple Tissues Improves Association Detection." (2018). doi:10.1101/292649
-11. Balazard, F. et al. "Interactions and collider bias in case-only gene-environment data" *bioRxiv*
-12. Gymrek, M., Willems, T., Reich, D. & Erlich, Y. "Interpreting short tandem repeat variations in humans using mutational constraint." *Nature Genetics* 49, 1495–1501 (2017).
-13. Zhu, H., Shen, D., Peng, X. & Liu, L. Y. "MWPCR: Multiscale Weighted Principal Component Regression for High-Dimensional Prediction." *Journal of the American Statistical Association* 112, 1009–1021 (2017).
-14. Domingo, J., Diss, G. & Lehner, B. Pairwise and higher-order genetic interactions during the evolution of a tRNA. Nature 558, 117–121 (2018).
-15. Chowell, D. et al. "Patient HLA class I genotype influences cancer response to checkpoint blockade immunotherapy." *Science* eaao4572 (2017). doi:10.1126/science.aao4572
-16. Bastarache, L. et al. "Phenotype risk scores identify patients with unrecognized Mendelian disease patterns." *Science* 359, 1233–1239 (2018).
-17. Zhao, S. D., Cai, T. T., Cappola, T. P., Margulies, K. B. & Li, H. S"parse Simultaneous Signal Detection for Identifying Genetically Controlled Disease Genes." *Journal of the American Statistical Association* 112, 1032–1046 (2017).
-18. Park, S., Supek, F. & Lehner, B. "Systematic discovery of germline cancer predisposition genes through the identification of somatic second hits." *Nature Communications* 9, 2601 (2018).
-19. Hore, V. et al. "Tensor decomposition for multiple-tissue gene expression experiments." *Nature* Genetics 48, 1094–1100 (2016).
-20. Greene, C. S. et al. "Understanding multicellular function and disease with human tissue-specific networks." *Nature Genetics* 47, 569–576 (2015).
-21. Dey, K. K. et al, "Visualizing the structure of RNA-seq expression data using grade of membership models. " *PLOS Genetics* 
+Barbeira, Alvaro N, Milton D Pividori, Jiamao Zheng, Heather E Wheeler, Dan L Nicolae, and Hae Kyung Im. 2018. "Integrating Predicted Transcriptome from Multiple Tissues Improves Association Detection," April. <https://doi.org/10.1101/292649>.
+
+Bastarache, Lisa, Jacob J. Hughey, Scott Hebbring, Joy Marlo, Wanke Zhao, Wanting T. Ho, Sara L. Van Driest, et al. 2018. "Phenotype Risk Scores Identify Patients with Unrecognized Mendelian Disease Patterns." *Science* 359 (6381): 1233--9. <https://doi.org/10.1126/science.aal4043>.
+
+Chowell, Diego, Luc G. T. Morris, Claud M. Grigg, Jeffrey K. Weber, Robert M. Samstein, Vladimir Makarov, Fengshen Kuo, et al. 2017. "Patient HLA Class I Genotype Influences Cancer Response to Checkpoint Blockade Immunotherapy." *Science*, December, eaao4572. <https://doi.org/10.1126/science.aao4572>.
+
+Consortium, The Brainstorm, Verneri Anttila, Brendan Bulik-Sullivan, Hilary K. Finucane, Raymond K. Walters, Jose Bras, Laramie Duncan, et al. 2018. "Analysis of Shared Heritability in Common Disorders of the Brain." *Science* 360 (6395): eaap8757. <https://doi.org/10.1126/science.aap8757>.
+
+Domingo, Júlia, Guillaume Diss, and Ben Lehner. 2018. "Pairwise and Higher-Order Genetic Interactions During the Evolution of a tRNA." *Nature* 558 (7708): 117--21. <https://doi.org/10.1038/s41586-018-0170-7>.
+
+Forsberg, Simon K. G., Joshua S. Bloom, Meru J. Sadhu, Leonid Kruglyak, and Örjan Carlborg. 2017. "Accounting for Genetic Interactions Improves Modeling of Individual Quantitative Trait Phenotypes in Yeast." *Nature Genetics* 49 (4): 497--503. <https://doi.org/10.1038/ng.3800>.
+
+Greene, Casey S., Arjun Krishnan, Aaron K. Wong, Emanuela Ricciotti, Rene A. Zelaya, Daniel S. Himmelstein, Ran Zhang, et al. 2015. "Understanding Multicellular Function and Disease with Human Tissue-Specific Networks." *Nature Genetics* 47 (6): 569--76. <https://doi.org/10.1038/ng.3259>.
+
+Gymrek, Melissa, Thomas Willems, David Reich, and Yaniv Erlich. 2017. "Interpreting Short Tandem Repeat Variations in Humans Using Mutational Constraint." *Nature Genetics* 49 (10): 1495--1501. <https://doi.org/10.1038/ng.3952>.
+
+Hickey, John M., Tinashe Chiurugwi, Ian Mackay, Wayne Powell, Implementing Genomic Selection in CGIAR Breeding Programs Workshop Participants, John M. Hickey, Tinashe Chiurugwi, et al. 2017. "Genomic Prediction Unifies Animal and Plant Breeding Programs to Form Platforms for Biological Discovery." *Nature Genetics* 49 (9): 1297--1303. <https://doi.org/10.1038/ng.3920>.
+
+Hore, Victoria, Ana Viñuela, Alfonso Buil, Julian Knight, Mark I. McCarthy, Kerrin Small, and Jonathan Marchini. 2016. "Tensor Decomposition for Multiple-Tissue Gene Expression Experiments." *Nature Genetics* 48 (9): 1094--1100. <https://doi.org/10.1038/ng.3624>.
+
+"Interactions and Collider Bias in Case-Only Gene-Environment Data | bioRxiv." n.d. Accessed July 30, 2018. <https://www.biorxiv.org/content/early/2017/09/20/124560>.
+
+Liley, James, John A. Todd, and Chris Wallace. 2017. "A Method for Identifying Genetic Heterogeneity Within Phenotypically Defined Disease Subgroups." *Nature Genetics* 49 (2): 310--16. <https://doi.org/10.1038/ng.3751>.
+
+Park, Solip, Fran Supek, and Ben Lehner. 2018. "Systematic Discovery of Germline Cancer Predisposition Genes Through the Identification of Somatic Second Hits." *Nature Communications* 9 (1): 2601. <https://doi.org/10.1038/s41467-018-04900-7>.
+
+Peters, Lauren A., Jacqueline Perrigoue, Arthur Mortha, Alina Iuga, Won-min Song, Eric M. Neiman, Sean R. Llewellyn, et al. 2017. "A Functional Genomics Predictive Network Model Identifies Regulators of Inflammatory Bowel Disease." *Nature Genetics* 49 (10): 1437--49. <https://doi.org/10.1038/ng.3947>.
+
+"Visualizing the Structure of RNA-Seq Expression Data Using Grade of Membership Models." n.d. Accessed July 30, 2018. <http://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1006599>.
+
+Wen, Lu, Jingyi Li, Huahu Guo, Xiaomeng Liu, Shengmin Zheng, Dafang Zhang, Weihua Zhu, et al. 2015. "Genome-Scale Detection of Hypermethylated CpG Islands in Circulating Cell-Free DNA of Hepatocellular Carcinoma Patients." *Cell Research* 25 (11): 1250--64. <https://doi.org/10.1038/cr.2015.126>.
+
+Zhao, Sihai Dave, T. Tony Cai, Thomas P. Cappola, Kenneth B. Margulies, and Hongzhe Li. 2017. "Sparse Simultaneous Signal Detection for Identifying Genetically Controlled Disease Genes." *Journal of the American Statistical Association* 112 (519): 1032--46. <https://doi.org/10.1080/01621459.2016.1270825>.
+
+Zhao, Wei, Asif Rasheed, Emmi Tikkanen, Jung-Jin Lee, Adam S. Butterworth, Joanna M. M. Howson, Themistocles L. Assimes, et al. 2017. "Identification of New Susceptibility Loci for Type 2 Diabetes and Shared Etiological Pathways with Coronary Heart Disease." *Nature Genetics* 49 (10): 1450--7. <https://doi.org/10.1038/ng.3943>.
